@@ -1,6 +1,6 @@
 {
   "name": "@twilson63/request-scheduler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This service receives a  - notification of a scheduled request task - loads it into node-cron",
   "main": "index.js",
   "scripts": {
